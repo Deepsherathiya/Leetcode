@@ -66,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepsherathiya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepsherathiya/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Deepsherathiya/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
@@ -76,6 +77,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepsherathiya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepsherathiya/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Deepsherathiya/Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -85,6 +87,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Deepsherathiya/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Deepsherathiya/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Deepsherathiya/Leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
